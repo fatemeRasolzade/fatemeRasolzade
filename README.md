@@ -1,15 +1,11 @@
 <!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you.</h1> -->
-<div align="center">
-<h1 align="center" width="20">Hey 👋, Nice to see you!</h1>
-</div>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=3D85C6&center=true&vCenter=true&random=false&height=20&lines=Fateme+Rasolzade;Front-End+Developer" alt="Typing SVG" />
+<h1 align="center">Hey 👋, Nice to see you!</h1>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=3D85C6&center=true&vCenter=true&random=false&height=20&lines=Fateme+Rasolzade;Front-End+Developer" alt="Typing SVG" />
 <p> 
   Welcome to my page ! 
 </br>
 I am a Front-end developer who never tired of learning new things in front-end journey, and interested In Reactjs, with more than one years experiense.
 </p>
-
 <details>
   <summary>
    <h3>
@@ -17,19 +13,14 @@ I am a Front-end developer who never tired of learning new things in front-end j
    </h3>
   </summary>
   <br/>
- 
 <img src="https://github-readme-stats.vercel.app/api?username=fatemeRasolzade" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeRasolzade&layout=compact" height="180" />
- 
 </details> 
-
-
-<h3>Skills:</h3>
+<h2>Skills:</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,graphql,vite,sass,bootstrap,materialui,tailwind,babel,webpack" />
 </p>
-
-<h3>Tools:</h3>
+<h2>Tools:</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,xd" />
 </p>
