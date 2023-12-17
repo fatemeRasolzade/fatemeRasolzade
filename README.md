@@ -22,7 +22,7 @@ I am a Front-end developer who never tired of learning new things in front-end j
 
 <h3>My skills:</h3>
 <p>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JS-F7E018?style=flat-square&logo=Javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-18BCEE?&logo=react&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?&logo=Next.js&logoColor=white" />
