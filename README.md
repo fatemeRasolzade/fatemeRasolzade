@@ -16,7 +16,7 @@ I am a Front-end developer who never tired of learning new things in front-end j
 <img src="https://github-readme-stats.vercel.app/api?username=fatemeRasolzade" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeRasolzade&layout=compact" height="180" />
 </details> 
-<h2>Skills:</h2>
+## Skills
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,graphql,vite,sass,bootstrap,materialui,tailwind,babel,webpack" />
 </p>
